@@ -1,0 +1,10 @@
+//
+// Prefix header for all source files of the 'sansibar' target in the 'sansibar' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
+
+#import "defines.h"

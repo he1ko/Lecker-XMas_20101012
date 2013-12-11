@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>title1</key>
+	<string>Das LECKER Christmas Special</string>
+	<key>title4</key>
+	<string>INHALT</string>
+	<key>title5</key>
+	<string>INHALT</string>
+	<key>title6</key>
+	<string>Süßes aus der Weihnachtsbäckerei</string>
+	<key>title7</key>
+	<string>Süßes aus der Weihnachtsbäckerei</string>
+	<key>title8</key>
+	<string>KEKSE</string>
+	<key>title9</key>
+	<string>Nürnberger Lebkuchen</string>
+	<key>title10</key>
+	<string>Quitten-Marzipan-Kekse</string>
+	<key>title11</key>
+	<string>Pecanuss-Honig-Streifen und Grüntee-Cookies</string>
+	<key>title12</key>
+	<string>Braune Pfeffernüsse</string>
+	<key>title13</key>
+	<string>Kleine Mandel-Schoko-Brote</string>
+	<key>title14</key>
+	<string>Schoko-Engelsaugen und Dattelwölkchen</string>
+	<key>title15</key>
+	<string>Rotweinplätzchen</string>
+	<key>title16</key>
+	<string>Walnuss-Doppeldecker und Karamell-Busserl</string>
+	<key>title17</key>
+	<string>Amarena-Mohn-Schnecken</string>
+	<key>title18</key>
+	<string>Walnuss-Engelaugen mit Ingwer</string>
+	<key>title19</key>
+	<string>Himbeer-Baiser-Küsschen und Mokka-Nuss-Stangen</string>
+	<key>title20</key>
+	<string>Sterntaler mit Schokolade und Macadamia-Cantuccini</string>
+	<key>title22</key>
+	<string>Süßes Hexenhaus</string>
+	<key>title23</key>
+	<string>Süßes Hexenhaus</string>
+	<key>title24</key>
+	<string>BACKHELFER UND GEWÜRZE</string>
+	<key>title25</key>
+	<string>BACKHELFER UND GEWÜRZE</string>
+	<key>title26</key>
+	<string>Kochschule - Spritzgebäck</string>
+	<key>title27</key>
+	<string>Kochschule - Vanillekipferln</string>
+	<key>title28</key>
+	<string>Kochschule - Kokosmakronen</string>
+	<key>title29</key>
+	<string>Kochschule - Zimtsterne</string>
+	<key>title30</key>
+	<string>MITBRINGSEL</string>
+	<key>title31</key>
+	<string>Marshmallow-Schoko-Konfekt</string>
+	<key>title32</key>
+	<string>Walnuss-Chili-Pesto</string>
+	<key>title33</key>
+	<string>Spicy Nuss-Snack und Milche Creme</string>
+	<key>title34</key>
+	<string>KUCHEN</string>
+	<key>title35</key>
+	<string>Apfeltarte mit Baiser-Mohn-Haube</string>
+	<key>title36</key>
+	<string>Straciatella-Kirsch-Torte</string>
+	<key>title37</key>
+	<string>Schokoladentorte mit Granatapfelsahne</string>
+	<key>title38</key>
+	<string>Macadamia-Brownies</string>
+	<key>title39</key>
+	<string>Cupcakes mit Himbeercreme + Kokosbaiser</string>
+	<key>title40</key>
+	<string>Vanille-Käsekuchen mit Aprikosen-Mohn-Creme</string>
+	<key>title42</key>
+	<string>Topfen-Stollenkranz mit Pflaumenmus</string>
+	<key>title43</key>
+	<string>Christstollen mit Nüssen</string>
+	<key>title44</key>
+	<string>WUNSCHZETTEL</string>
+	<key>title45</key>
+	<string>Wunschzettel</string>
+	<key>title46</key>
+	<string>Köstliche Weihnacht überall</string>
+	<key>title47</key>
+	<string>Köstliche Weihnacht überall</string>
+	<key>title48</key>
+	<string>MENÜS</string>
+	<key>title49</key>
+	<string>Parmesan-Schaumsüppchen</string>
+	<key>title50</key>
+	<string>Gänsekeulen mit Chianti-Bohnen</string>
+	<key>title51</key>
+	<string>Gratinierte Feigen mit Orangenkaramellsoße</string>
+	<key>title52</key>
+	<string>Weinempfehlung und Tipps zum Menü</string>
+	<key>title54</key>
+	<string>Minzspinat mit Haselnüssen</string>
+	<key>title55</key>
+	<string>Dill-Lachs mit Kartoffel-Merrettich-Gratin</string>
+	<key>title56</key>
+	<string>Marmorcreme mit Schokowaffel</string>
+	<key>title57</key>
+	<string>Weinempfehlung und Tipps zum Menü</string>
+	<key>title58</key>
+	<string>Käsenocken auf Rote-Bete-Carpaccio</string>
+	<key>title59</key>
+	<string>Filetsteak mit Cognacbutter</string>
+	<key>title60</key>
+	<string>Schokosoufflé mit Maracuja</string>
+	<key>title61</key>
+	<string>Weinempfehlung und Tipps zum Menü</string>
+	<key>title62</key>
+	<string>Waldorfsalat mit Clementinen</string>
+	<key>title63</key>
+	<string>Ente mit Pilzfüllung + Orangen-Thymian-Soße</string>
+	<key>title64</key>
+	<string>Mohncreme mit Punschkirschen</string>
+	<key>title65</key>
+	<string>Weinempfehlung und Tipps zum Menü</string>
+	<key>title66</key>
+	<string>Festtagsmenü von Sterneköchin Cornelia Poletto</string>
+	<key>title67</key>
+	<string>Italienischer Wurstsalat mit Kapern-Vinaigrette</string>
+	<key>title68</key>
+	<string>Zander auf gebratener Polenta mit Olivenzwiebeln</string>
+	<key>title69</key>
+	<string>Nougat-Crêpes-Törtchen mit pochierten Birnen</string>
+	<key>title70</key>
+	<string>Garzeiten im Überblick</string>
+	<key>title72</key>
+	<string>KOCHSCHULEN</string>
+	<key>title73</key>
+	<string>Roastbeef mit Remoulade</string>
+	<key>title74</key>
+	<string>Knusprige Gans mit Backobst</string>
+	<key>title75</key>
+	<string>Knusprige Gans mit Backobst</string>
+	<key>title76</key>
+	<string>Zarter Rehrücken zu Rotweinsoße</string>
+	<key>title77</key>
+	<string>Filet im Blätterteig mit Pfifferlingen</string>
+	<key>title78</key>
+	<string>Speckrosenkohl und Kartoffelpürree mit Trüffelbutter</string>
+	<key>title79</key>
+	<string>Knusprige Kartoffeltaler und Weihnachtlicher Apfelrotkohl</string>
+	<key>title80</key>
+	<string>PROST NEUJAHR!</string>
+	<key>title81</key>
+	<string>PROST NEUJAHR!</string>
+	<key>title82</key>
+	<string>Feines Asia-Fondue</string>
+	<key>title83</key>
+	<string>Schlemmer-Raclette</string>
+	<key>title84</key>
+	<string>Filetröllchen mit Speckpflaumen und Parmesan-Tacos mit Graved Lachs</string>
+	<key>title86</key>
+	<string>Chili-Oliven-Manchego und Forellen-Tatar</string>
+	<key>title87</key>
+	<string>Cesar's Salad mit Hähnchen</string>
+	<key>title88</key>
+	<string>Italienischer Tortellini-Salat</string>
+	<key>title89</key>
+	<string>Tandoori-Hähnchen-Spießchen und Kartoffelsalat mit Tiroler Speck</string>
+	<key>title90</key>
+	<string>Spicy Kürbissuppe</string>
+	<key>title91</key>
+	<string>Ananas-Rum-Punsch | Impressum</string>
+	<key>title92</key>
+	<string>Basteln, Schmücken, Tralalalala</string>
+	<key>title93</key>
+	<string>Basteln, Schmücken, Tralalalala</string>
+	<key>title94</key>
+	<string>Bügelhilfe und Goldgeschenke</string>
+	<key>title95</key>
+	<string>Tischkärtchen und Adventskalender</string>
+	<key>title96</key>
+	<string>Candlelight-Teatime und Sweet Hearts</string>
+	<key>title97</key>
+	<string>Schwarzwälder Hirsch und Schneebedeckte Muffinberge</string>
+	<key>title98</key>
+	<string>Tischlein deck dich ... weihnachtlich!</string>
+</dict>
+</plist>
